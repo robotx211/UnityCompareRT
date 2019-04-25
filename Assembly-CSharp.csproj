@@ -61,6 +61,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\Capture.cs" />
+    <Compile Include="Assets\Scripts\CompareRT.cs" />
     <Compile Include="Assets\Scripts\CompareTex2D.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/Robert/Desktop/UnityProjects/RT Test/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
